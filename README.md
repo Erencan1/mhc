@@ -52,7 +52,7 @@ class ElementName:
 ```
 
 
-#   2) Inelements
+#   2) Indelements
 
 Indelements are used to give directions such as creating log file, setting number of thread at a time.
 They are also used to for general operations.
