@@ -5,9 +5,6 @@ MHC is a platform where user can create own command prompt to get data from cell
 Even though basic structure is in python, other programing languages are supported as well
 
 
-![alt text](https://github.com/Erencan1/mhc/blob/master/images/mhc_menu.png)
-
-
 MHC consists of two primary components:
     1) Elements
     2) Indelements
@@ -80,6 +77,12 @@ class IndElementName:
         # do stuff
         return function
 ```
+
+
+![alt text](https://github.com/Erencan1/mhc/blob/master/images/mhc_menu.png)
+
+
+![alt text](https://github.com/Erencan1/mhc/blob/master/images/exp_output_1.png)
 
 
 #   Some helper modules
