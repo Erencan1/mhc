@@ -1,5 +1,12 @@
+![alt text](https://github.com/Erencan1/mhc/blob/master/images/mhc_logo_1.png)
+
+
 MHC is a platform where user can create own command prompt to get data from cell towers.
 Even though basic structure is in python, other programing languages are supported as well
+
+
+![alt text](https://github.com/Erencan1/mhc/blob/master/images/mhc_menu.png)
+
 
 MHC consists of two primary components:
     1) Elements
@@ -12,6 +19,7 @@ Elements are used to define what commands need to be run to collect data from ce
 convert_output must return output to display and summary in strings. Summary might be left empty string if not needed.
 
 convert_output is performed after data is received.
+
         :param rawOutput:   data from cell tower -- string
         :param nodeid   :   Cell Tower ID -- string
         :return         :   (output_to_display, summary) -- (string, string)
